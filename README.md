@@ -21,3 +21,4 @@ Requirement:
 • Experience in design, implement, and monitor regular backups, disaster recovery plans is a plus
 
 Key skills: Python, SQL and AWS cloud
+@dataengineer #dataengineer
